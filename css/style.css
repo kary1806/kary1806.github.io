@@ -240,10 +240,10 @@ header {
 }
 
 .bg-gradient {
-    background-image: -moz-linear-gradient( 135deg, rgba(55, 88, 2, 0.8) 0%, rgba(93, 143, 13, 0.8) 100%);
-    background-image: -webkit-linear-gradient( 135deg, rgba(55, 88, 2, 0.8) 0%, rgba(93, 143, 13, 0.8) 100%);
-    background-image: -ms-linear-gradient( 135deg, rgba(55, 88, 2, 0.8) 0%, rgba(93, 143, 13, 0.8) 100%);
-    background-image: linear-gradient( 135deg, rgba(55, 88, 2, 0.8) 0%, rgba(93, 143, 13, 0.8) 100%);
+    background-image: -moz-linear-gradient( 135deg, rgb(208, 213, 207) 0%, rgb(221, 232, 205) 100%);
+    background-image: -webkit-linear-gradient( 135deg, rgb(208, 213, 207) 0%, rgb(221, 232, 205) 100%);
+    background-image: -ms-linear-gradient( 135deg, rgb(208, 213, 207) 0%, rgb(221, 232, 205) 100%);
+    background-image: linear-gradient( 135deg, rgb(208, 213, 207) 0%, rgb(221, 232, 205) 100%);
 }
 
 .tagline {
