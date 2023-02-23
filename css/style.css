@@ -273,6 +273,9 @@ header {
     .img-holder {
         padding-bottom: 100%;
     }
+    .navbar-brand{
+        width: 60%;
+    }
 }
 
 
