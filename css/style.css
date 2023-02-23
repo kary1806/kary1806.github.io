@@ -247,11 +247,11 @@ header {
 }
 
 .tagline {
-    font-size: 23px;
+    font-size: 43px;
     font-weight: bold;
     color: #3ab751;
     max-width: 800px;
-    margin: 5em auto auto;
+    margin: 3em auto auto;
 }
 
 .img-holder {
