@@ -236,7 +236,7 @@ p.lead {
 header {
     padding: 100px 0 0;
     text-align: center;
-    color: #FFF;
+    color: rgb(33, 28, 28);
 }
 
 .bg-gradient {
@@ -249,7 +249,7 @@ header {
 .tagline {
     font-size: 23px;
     font-weight: 300;
-    color: #fff;
+    color: rgb(33, 28, 28);
     max-width: 800px;
     margin: 0 auto;
 }
