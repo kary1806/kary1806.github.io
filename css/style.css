@@ -248,10 +248,10 @@ header {
 
 .tagline {
     font-size: 23px;
-    font-weight: 300;
+    font-weight: bold;
     color: #3ab751;
     max-width: 800px;
-    margin: 8 auto;
+    margin: 5em auto auto;
 }
 
 .img-holder {
