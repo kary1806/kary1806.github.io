@@ -425,16 +425,16 @@ header {
 .nav-tabs .nav-link:focus,
 .nav-tabs .nav-link:hover {
     padding: 1rem 1rem;
-    border-color: #faf6fb #faf6fb #FFF;
+    border-color: #f6fbf7 #f6fbfb #FFF;
     font-size: 19px;
-    color: #b5a4c8;
-    background: #f5eff7;
+    color: #3ab751;
+    background: #eff7f4;
 }
 
 .nav-tabs .nav-link.active {
     background: #FFF;
     border-top-width: 3px;
-    border-color: #ce75b4 #faf6fb #FFF;
+    border-color: #f6fbf7 #f6fbfb #FFF;
     color: #3ab751;
 }
 
