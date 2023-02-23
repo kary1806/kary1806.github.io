@@ -110,10 +110,10 @@ p.lead {
 
 .btn-primary {
     border-radius: 3px;
-    background-image: -moz-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -webkit-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: -ms-linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
-    background-image: linear-gradient( 122deg, #e54595 0%, #fd378e 100%);
+    background-image: -moz-linear-gradient( 122deg, #45e54d 0%, #5bfd37 100%);
+    background-image: -webkit-linear-gradient( 122deg, #45e54d 0%, #5bfd37 100%);
+    background-image: -ms-linear-gradient( 122deg, #45e54d 0%, #5bfd37 100%);
+    background-image: linear-gradient( 122deg, #45e54d 0%, #5bfd37 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.2);
     font-weight: 500;
     padding: 0.6rem 2rem;
@@ -126,7 +126,7 @@ p.lead {
 .btn-primary:not([disabled]):not(.disabled).active,
 .btn-primary:not([disabled]):not(.disabled):active,
 .show>.btn-primary.dropdown-toggle {
-    background-image: linear-gradient( 122deg, #fd378e 0%, #e54595 100%);
+    background-image: linear-gradient( 122deg, #5bfd37 0%, #45e54d 100%);
     box-shadow: 0px 9px 32px 0px rgba(0, 0, 0, 0.3);
     color: #FFF;
 }
@@ -150,7 +150,7 @@ p.lead {
 }
 
 .light-bg {
-    background-color: #faf6fb;
+    background-color: #f6fbf8;
 }
 
 .section {
@@ -163,7 +163,7 @@ p.lead {
 }
 
 .section-title small {
-    color: #998a9b;
+    color: #8b9b8a;
 }
 
 @media (max-width:767px) {
@@ -186,10 +186,10 @@ p.lead {
 
 .nav-menu.is-scrolling,
 .nav-menu.menu-is-open {
-    background-color: rgb(74, 13, 143);
-    background: -moz-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
-    background: -webkit-linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
-    background: linear-gradient(135deg, rgb(74, 13, 143) 0%, rgb(250, 42, 143) 100%);
+    background-color: rgb(93, 143, 13);
+    background: -moz-linear-gradient(135deg, rgb(93, 143, 13) 0%, rgb(42, 250, 142) 100%);
+    background: -webkit-linear-gradient(135deg, rgb(93, 143, 13) 0%, rgb(42, 250, 142) 100%);
+    background: linear-gradient(135deg, rgb(93, 143, 13) 0%, rgb(42, 250, 142) 100%);
     -webkit-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     -moz-box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
     box-shadow: 0px 5px 23px 0px rgba(0, 0, 0, 0.1);
