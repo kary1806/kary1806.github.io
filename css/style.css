@@ -171,6 +171,10 @@ p.lead {
     margin-top: 1.5rem;
 }
 
+.img-step{
+    margin-top: 8em;
+}
+
 @media (max-width:767px) {
     h1 {
         font-size: 40px;
@@ -180,6 +184,9 @@ p.lead {
     }
     .title-step{
         margin-top: 0.3rem;
+    }
+    .img-step{
+        margin-top: 1em;
     }
 }
 
