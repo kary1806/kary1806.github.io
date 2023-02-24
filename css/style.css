@@ -166,6 +166,11 @@ p.lead {
     color: #8b9b8a;
 }
 
+
+.title-step{
+    margin-top: 1.5rem;
+}
+
 @media (max-width:767px) {
     h1 {
         font-size: 40px;
@@ -173,7 +178,11 @@ p.lead {
     h2 {
         font-size: 30px;
     }
+    .title-step{
+        margin-top: 0.3rem;
+    }
 }
+
 
 
 /* NAVBAR
